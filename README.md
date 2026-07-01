@@ -80,6 +80,6 @@ The next release will focus on improving both the user experience and the overal
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻Author
 
 **Tushar Kanti Sahariah**
